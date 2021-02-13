@@ -1,3 +1,52 @@
 {
-  "jewels": []
+  "jewels": [
+    {
+      "id": "1",
+      "category": "ring",
+      "description": "Test description.",
+      "image": "jewel.jpg",
+      "price": "15000",
+      "selected":"false"
+    },
+    {
+      "id": "2",
+      "category": "ring",
+      "description": "Test description.",
+      "image": "jewel.jpg",
+      "price": "15000",
+      "selected":"false"
+    },
+    {
+      "id": "3",
+      "category": "ring",
+      "description": "Test description.",
+      "image": "jewel.jpg",
+      "price": "15000",
+      "selected":"false"
+    },
+    {
+      "id": "5",
+      "category": "ring",
+      "description": "Test description.",
+      "image": "jewel.jpg",
+      "price": "15000",
+      "selected":"false"
+    },
+    {
+      "id": "6",
+      "category": "ring",
+      "description": "Test description.",
+      "image": "jewel.jpg",
+      "price": "15000",
+      "selected":"false"
+    },
+    {
+      "id": "7",
+      "category": "ring",
+      "description": "Test description.",
+      "image": "jewel.jpg",
+      "price": "15000",
+      "selected":"false"
+    }
+  ]
 }
